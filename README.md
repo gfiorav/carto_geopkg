@@ -3,13 +3,13 @@
 {
 	"info": {
 		"name": "name",
-		"description": "description"
-		"attributions": "attributions"
-		"sources": "carto, osm"
+		"description": "description",
+		"attributions": "attributions",
+		"sources": "carto, osm",
 		"classification": {
   			"tags": ["manolo", "escobar", "rey"],
 			"categories": ["food", "drinks"]
-		},
+		}
   	"publishing": {
 	    	"privacy": "private"
   	},
