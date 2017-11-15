@@ -9,6 +9,7 @@
 		"classification": {
   			"tags": ["manolo", "escobar", "rey"],
 			"categories": ["food", "drinks"]
+		}
 	},
   	"publishing": {
 	    	"privacy": "private"
